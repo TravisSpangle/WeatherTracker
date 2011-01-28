@@ -2,9 +2,9 @@
 {
 	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {663, 327}}";
-			sepNavSelRange = "{218, 0}";
-			sepNavVisRange = "{0, 430}";
+			sepNavIntBoundsRect = "{{0, 0}, {453, 260}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 363}";
 		};
 	};
 	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
@@ -28,17 +28,43 @@
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* WeatherTracker */,
 		);
+		breakpoints = (
+		);
 		codeSenseManager = 5350DA9012F338BF0099B93C /* Code sense */;
 		executables = (
 			5350DA7612F3387C0099B93C /* WeatherTracker */,
 		);
 		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
 				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					485,
+					764,
 					20,
 					48,
 					43,
@@ -73,6 +99,38 @@
 			53A7556312F33E2D00471908 /* PBXTextBookmark */ = 53A7556312F33E2D00471908 /* PBXTextBookmark */;
 			53A7557A12F33EE200471908 /* PBXTextBookmark */ = 53A7557A12F33EE200471908 /* PBXTextBookmark */;
 			53A7557B12F33F1900471908 /* PBXTextBookmark */ = 53A7557B12F33F1900471908 /* PBXTextBookmark */;
+			53A7558912F3429300471908 /* PBXTextBookmark */ = 53A7558912F3429300471908 /* PBXTextBookmark */;
+			53A7558F12F3469600471908 /* PBXTextBookmark */ = 53A7558F12F3469600471908 /* PBXTextBookmark */;
+			53A7559012F3469600471908 /* XCBuildMessageTextBookmark */ = 53A7559012F3469600471908 /* XCBuildMessageTextBookmark */;
+			53A7559112F3469600471908 /* PBXTextBookmark */ = 53A7559112F3469600471908 /* PBXTextBookmark */;
+			53A7559412F3471300471908 /* XCBuildMessageTextBookmark */ = 53A7559412F3471300471908 /* XCBuildMessageTextBookmark */;
+			53A7559512F3471300471908 /* PBXTextBookmark */ = 53A7559512F3471300471908 /* PBXTextBookmark */;
+			53A7559812F3474100471908 /* XCBuildMessageTextBookmark */ = 53A7559812F3474100471908 /* XCBuildMessageTextBookmark */;
+			53A7559912F3474100471908 /* PBXTextBookmark */ = 53A7559912F3474100471908 /* PBXTextBookmark */;
+			53A7559A12F3475400471908 /* PBXTextBookmark */ = 53A7559A12F3475400471908 /* PBXTextBookmark */;
+			53A7559B12F3475400471908 /* PBXTextBookmark */ = 53A7559B12F3475400471908 /* PBXTextBookmark */;
+			53A7559C12F3475400471908 /* PBXTextBookmark */ = 53A7559C12F3475400471908 /* PBXTextBookmark */;
+			53A7559F12F347C200471908 /* XCBuildMessageTextBookmark */ = 53A7559F12F347C200471908 /* XCBuildMessageTextBookmark */;
+			53A755A012F347C200471908 /* PBXTextBookmark */ = 53A755A012F347C200471908 /* PBXTextBookmark */;
+			53A755A312F347D900471908 /* PBXTextBookmark */ = 53A755A312F347D900471908 /* PBXTextBookmark */;
+			53A755A612F349D500471908 /* PBXTextBookmark */ = 53A755A612F349D500471908 /* PBXTextBookmark */;
+			53A755A712F349F700471908 /* PBXTextBookmark */ = 53A755A712F349F700471908 /* PBXTextBookmark */;
+			53A755B112F34A1300471908 /* PBXTextBookmark */ = 53A755B112F34A1300471908 /* PBXTextBookmark */;
+			53A755B212F34A1300471908 /* XCBuildMessageTextBookmark */ = 53A755B212F34A1300471908 /* XCBuildMessageTextBookmark */;
+			53A755B312F34A1300471908 /* PBXTextBookmark */ = 53A755B312F34A1300471908 /* PBXTextBookmark */;
+			53A755BB12F34A1D00471908 /* PBXTextBookmark */ = 53A755BB12F34A1D00471908 /* PBXTextBookmark */;
+			53A755BE12F34A2500471908 /* PBXTextBookmark */ = 53A755BE12F34A2500471908 /* PBXTextBookmark */;
+			53A755C312F34B1E00471908 /* PBXTextBookmark */ = 53A755C312F34B1E00471908 /* PBXTextBookmark */;
+			53A755C612F34CF400471908 /* PBXTextBookmark */ = 53A755C612F34CF400471908 /* PBXTextBookmark */;
+			53A755C912F34CF600471908 /* PBXTextBookmark */ = 53A755C912F34CF600471908 /* PBXTextBookmark */;
+			53A755CA12F34CF600471908 /* PBXTextBookmark */ = 53A755CA12F34CF600471908 /* PBXTextBookmark */;
+			53A755CB12F34CF600471908 /* PBXTextBookmark */ = 53A755CB12F34CF600471908 /* PBXTextBookmark */;
+			53A755CC12F34CF600471908 /* PBXTextBookmark */ = 53A755CC12F34CF600471908 /* PBXTextBookmark */;
+			53A755CD12F34CF600471908 /* PBXTextBookmark */ = 53A755CD12F34CF600471908 /* PBXTextBookmark */;
+			53A755CE12F34CF600471908 /* PBXTextBookmark */ = 53A755CE12F34CF600471908 /* PBXTextBookmark */;
+			53A755CF12F34D0C00471908 /* PBXTextBookmark */ = 53A755CF12F34D0C00471908 /* PBXTextBookmark */;
+			53A755D012F34D0C00471908 /* PBXTextBookmark */ = 53A755D012F34D0C00471908 /* PBXTextBookmark */;
+			53A755D112F34D4800471908 /* PBXTextBookmark */ = 53A755D112F34D4800471908 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5350DA8F12F338BF0099B93C /* Source Control */;
 		userBuildSettings = {
@@ -138,9 +196,16 @@
 	};
 	53A7553B12F33CA500471908 /* WeatherStationViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {663, 327}}";
-			sepNavSelRange = "{249, 0}";
-			sepNavVisRange = "{0, 261}";
+			sepNavIntBoundsRect = "{{0, 0}, {467, 221}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{0, 282}";
+		};
+	};
+	53A7553C12F33CA500471908 /* WeatherStationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1313}}";
+			sepNavSelRange = "{1146, 0}";
+			sepNavVisRange = "{1396, 1075}";
 		};
 	};
 	53A7555312F33E0100471908 /* XCBuildMessageTextBookmark */ = {
@@ -261,6 +326,335 @@
 		rType = 0;
 		vrLen = 430;
 		vrLoc = 0;
+	};
+	53A7557C12F3409100471908 /* Station.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 585}}";
+			sepNavSelRange = "{186, 7}";
+			sepNavVisRange = "{3, 1051}";
+		};
+	};
+	53A7557D12F3409100471908 /* Station.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {537, 2132}}";
+			sepNavSelRange = "{3496, 0}";
+			sepNavVisRange = "{3320, 181}";
+		};
+	};
+	53A7558912F3429300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	53A7558F12F3469600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	53A7559012F3469600471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot convert to a pointer type";
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 135;
+		rType = 1;
+	};
+	53A7559112F3469600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 137";
+		rLen = 0;
+		rLoc = 3386;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 3316;
+	};
+	53A7559412F3471300471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Local declaration of 'latitude' hides instance variable";
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 109;
+		rType = 1;
+	};
+	53A7559512F3471300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 110";
+		rLen = 0;
+		rLoc = 2953;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 2845;
+	};
+	53A7559812F3474100471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'station'";
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 145;
+		rType = 1;
+	};
+	53A7559912F3474100471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 180;
+		vrLoc = 3311;
+	};
+	53A7559A12F3475400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	53A7559B12F3475400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557C12F3409100471908 /* Station.h */;
+		name = "station.h: 42";
+		rLen = 0;
+		rLoc = 1046;
+		rType = 0;
+		vrLen = 1054;
+		vrLoc = 0;
+	};
+	53A7559C12F3475400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 1531;
+		vrLoc = 38;
+	};
+	53A7559F12F347C200471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Method definition for '+randomStation' not found";
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 145;
+		rType = 1;
+	};
+	53A755A012F347C200471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 3320;
+	};
+	53A755A312F347D900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 3320;
+	};
+	53A755A612F349D500471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 3320;
+	};
+	53A755A712F349F700471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 3320;
+	};
+	53A755B112F34A1300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 146";
+		rLen = 0;
+		rLoc = 3496;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 3320;
+	};
+	53A755B212F34A1300471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ';' before '}' token";
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	53A755B312F34A1300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	53A755BB12F34A1D00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755BE12F34A2500471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755C312F34B1E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755C612F34CF400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755C912F34CF600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755CA12F34CF600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "station.m: 17";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 1400;
+		vrLoc = 0;
+	};
+	53A755CB12F34CF600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557C12F3409100471908 /* Station.h */;
+		name = "station.h: 12";
+		rLen = 7;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 3;
+	};
+	53A755CC12F34CF600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 13";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	53A755CD12F34CF600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 20";
+		rLen = 7;
+		rLoc = 465;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 0;
+	};
+	53A755CE12F34CF600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 46";
+		rLen = 0;
+		rLoc = 1143;
+		rType = 0;
+		vrLen = 1156;
+		vrLoc = 509;
+	};
+	53A755CF12F34D0C00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755D012F34D0C00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	53A755D112F34D4800471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 47";
+		rLen = 0;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1075;
+		vrLoc = 1396;
 	};
 	8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */ = {
 		uiCtxt = {

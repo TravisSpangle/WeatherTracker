@@ -7,9 +7,44 @@
 //
 
 #import "WeatherStationViewController.h"
-
+#import "Station.h"
 
 @implementation WeatherStationViewController
+
+- (id)init {
+	[super initWithStyle:UITableViewStyleGrouped];
+	
+	//Creating my stations to populate
+	stations = [[NSMutableArray alloc] init];
+	for(int i=0; i <10; i++) {
+		[stations addObject:[Station randomStation]];
+	}
+	
+	return self;
+}
+	
+- (NSInteger) tableView:(UITableView *)tableView
+  numberOfRowsInSection:(NSInteger)section {
+	return [stations count];
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView
+		 cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+	//checking for reusalbe cells
+	UITableViewCell *cell = 
+	[tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"];
+	
+	if (!cell) {
+		cell = [[[UITableViewCell alloc]
+				 initWithStyle:UITableViewCellStyleDefault 
+				 reuseIdentifier:@"UITableViewCell"] autorelease];
+	}
+	
+	Station *s = [stations objectAtIndex:[indexPath row]];
+	[[cell textLabel] setText:[s stationName]];
+	return cell;
+}
+	 
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*

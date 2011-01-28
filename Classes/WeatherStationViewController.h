@@ -10,7 +10,7 @@
 
 
 @interface WeatherStationViewController : UITableViewController {
-
+	NSMutableArray *stations;
 }
 
 @end
