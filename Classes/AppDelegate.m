@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "WeatherStationViewController.h"
 
 @implementation AppDelegate
 
@@ -18,7 +19,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
-    // Override point for customization after application launch.
+    /*Creating the Weather Station List view*/
+	weatherStationViewController = [[WeatherStationViewController alloc] init];
+	
+	/*Place the view int eh window hierarchy*/
+	[window setRootViewController:weatherStationViewController];
     
     [self.window makeKeyAndVisible];
     
@@ -75,6 +80,7 @@
 
 
 - (void)dealloc {
+	//[weatherStationViewController release];
     [window release];
     [super dealloc];
 }

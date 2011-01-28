@@ -8,8 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+@class WeatherStationViewController;
+
 @interface AppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
+	WeatherStationViewController *weatherStationViewController;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
