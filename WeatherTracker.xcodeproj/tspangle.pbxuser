@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {701, 334}}";
+			sepNavSelRange = "{331, 0}";
+			sepNavVisRange = "{0, 331}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WeatherTracker */ = {
+		activeExec = 0;
+		executables = (
+			5350DA7612F3387C0099B93C /* WeatherTracker */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5350DA7612F3387C0099B93C /* WeatherTracker */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WeatherTracker */;
+		codeSenseManager = 5350DA9012F338BF0099B93C /* Code sense */;
+		executables = (
+			5350DA7612F3387C0099B93C /* WeatherTracker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					523,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317929596;
+			PBXWorkspaceStateSaveDate = 317929596;
+		};
+		perUserProjectItems = {
+			5350DAA112F339260099B93C /* PBXBookmark */ = 5350DAA112F339260099B93C /* PBXBookmark */;
+			5350DAAE12F339260099B93C /* PBXTextBookmark */ = 5350DAAE12F339260099B93C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5350DA8F12F338BF0099B93C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5350DA7612F3387C0099B93C /* WeatherTracker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WeatherTracker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5350DA8F12F338BF0099B93C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5350DA9012F338BF0099B93C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5350DAA112F339260099B93C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+	};
+	5350DAAE12F339260099B93C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 117}, {1042, 656}}";
+		};
+	};
+}
