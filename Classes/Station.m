@@ -17,7 +17,7 @@
 +(id)randomStation
 {
 	NSArray *randomStartList = [NSArray arrayWithObjects:@"SEA", @"TAC", @"MUK", nil];
-	NSArray *randomEndList = [NSArray arrayWithObjects:@"EATTLE", @"OMA",@"ILTIO",nil];
+	NSArray *randomEndList = [NSArray arrayWithObjects:@"ATTLE", @"OMA",@"ILTIO",nil];
 	
 	int adjectiveIndex = random()%[randomStartList count];
 	int nounIndex = random()%[randomEndList count];

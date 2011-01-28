@@ -22,28 +22,6 @@
 	
 	return self;
 }
-	
-- (NSInteger) tableView:(UITableView *)tableView
-  numberOfRowsInSection:(NSInteger)section {
-	return [stations count];
-}
-
-- (UITableViewCell *)tableView:(UITableView *)tableView
-		 cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-	//checking for reusalbe cells
-	UITableViewCell *cell = 
-	[tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"];
-	
-	if (!cell) {
-		cell = [[[UITableViewCell alloc]
-				 initWithStyle:UITableViewCellStyleDefault 
-				 reuseIdentifier:@"UITableViewCell"] autorelease];
-	}
-	
-	Station *s = [stations objectAtIndex:[indexPath row]];
-	[[cell textLabel] setText:[s stationName]];
-	return cell;
-}
 	 
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
@@ -78,6 +56,179 @@
 }
 */
 
+#pragma mark -
+#pragma mark Header Methods
+- (UIView *)headerView
+{
+	if(headerView)
+		return headerView;		
+	
+    // Create a UIButton object, simple rounded rect style
+    UIButton *editButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	
+    // Set the title of this button to "Edit"
+    [editButton setTitle:@"Edit" forState:UIControlStateNormal];
+	
+    // How wide is the screen?
+    float w = [[UIScreen mainScreen] bounds].size.width;
+	
+    // Create a rectangle for the button
+    CGRect editButtonFrame = CGRectMake(8.0, 8.0, w - 16.0, 30.0);	
+    [editButton setFrame:editButtonFrame];
+	
+    // When this button is tapped, send the message 
+    // editingButtonPressed: to this instance of ItemsViewController
+    [editButton addTarget:self 
+                   action:@selector(editingButtonPressed:) 
+         forControlEvents:UIControlEventTouchUpInside];
+	
+    // Create a rectangle for the headerView that will contain the button
+    CGRect headerViewFrame = CGRectMake(0, 0, w, 48);
+    headerView = [[UIView alloc] initWithFrame:headerViewFrame];
+	
+    // Add button to the headerView's view hierarchy
+    [headerView addSubview:editButton];   
+    
+    return headerView;
+}
+- (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
+	return [self headerView];
+}
+
+- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section {
+	return [[self headerView] frame].size.height;
+}
+
+#pragma mark -
+#pragma mark Table Action Operations
+
+- (void)editingButtonPressed:(id)sender {
+	// if we are currently in editing mode...
+	if ([self isEditing]) {
+		// change text of button to inform user of state
+		[sender setTitle:@"Edit" forState:UIControlStateNormal];
+		// turn off editing mode
+		[self setEditing:NO animated:YES];
+	} else {
+		// change text of button to inform user of state
+		[sender setTitle:@"Done" forState:UIControlStateNormal];
+		// enter editing mode
+		[self setEditing:YES animated:YES];
+	}
+}
+
+
+
+- (void)setEditing:(BOOL)flag animated:(BOOL)animated
+{
+    [super setEditing:flag animated:animated];
+    
+    if (flag) {
+		//Entering edit mode so add 'add' option.
+        NSIndexPath *indexPath = 
+		[NSIndexPath indexPathForRow:[stations count] inSection:0];
+        NSArray *paths = [NSArray arrayWithObject:indexPath];
+        [[self tableView] insertRowsAtIndexPaths:paths
+                                withRowAnimation:UITableViewRowAnimationLeft];	
+    } else {
+		//Exiting edit mode so delete add option
+        NSIndexPath *indexPath = 
+		[NSIndexPath indexPathForRow:[stations count] inSection:0];
+        NSArray *paths = [NSArray arrayWithObject:indexPath];
+        [[self tableView] deleteRowsAtIndexPaths:paths 
+                                withRowAnimation:UITableViewRowAnimationFade];
+    }
+}
+
+- (NSInteger)tableView:(UITableView *)tableView
+ numberOfRowsInSection:(NSInteger)section {
+	int numberOfRows = [stations count];
+	// If we are editing, we will have one more row than we have possessions
+	if ([self isEditing])
+		numberOfRows++;
+	
+	return numberOfRows;
+}
+
+- (void)tableView:(UITableView *)tableView 
+moveRowAtIndexPath:(NSIndexPath *)fromIndexPath 
+	  toIndexPath:(NSIndexPath *)toIndexPath 
+{
+	[stations removeObjectAtIndex:[fromIndexPath row]];
+	[stations insertObject:[stations objectAtIndex:[fromIndexPath row]] 
+				   atIndex:[toIndexPath row]];
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView 
+		 cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    
+	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"]; 
+	if (!cell)
+		cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"UITableViewCell"] autorelease];	
+	
+	if ([indexPath row] < [stations count])
+		[[cell textLabel] setText:[[stations objectAtIndex:[indexPath row]] stationName]];
+	else 
+		[[cell textLabel] setText:@"Add New Station..."];
+	
+	return cell;
+}
+
+
+- (UITableViewCellEditingStyle)tableView:(UITableView *)aTableView 
+           editingStyleForRowAtIndexPath:(NSIndexPath *)indexPath 
+{		
+	if ([self isEditing] && [indexPath row] == [stations count]) {
+		//Editing, add the Insert button
+		return UITableViewCellEditingStyleInsert;
+	}
+	return UITableViewCellEditingStyleDelete;
+}
+
+- (void)tableView:(UITableView *)tableView 
+commitEditingStyle:(UITableViewCellEditingStyle)editingStyle 
+forRowAtIndexPath:(NSIndexPath *)indexPath 
+{
+	if (editingStyle == UITableViewCellEditingStyleDelete) {
+		//committing a delete command
+		[stations removeObjectAtIndex:[indexPath row]];
+		[tableView deleteRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] 
+						 withRowAnimation:YES];
+		
+	} else if (editingStyle == UITableViewCellEditingStyleInsert) {
+		//command was for an insert
+		[stations addObject:[Station randomStation]];
+		[tableView insertRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] 
+						 withRowAnimation:UITableViewRowAnimationLeft];
+	}
+}
+
+#pragma mark -
+#pragma mark Keed Add New Row at bottom
+- (BOOL)tableView:(UITableView *)tableView 
+canMoveRowAtIndexPath:(NSIndexPath *)indexPath 
+{
+	if ([indexPath row] < [stations count])
+		return YES;
+	return NO;
+}
+- (NSIndexPath *)tableView:(UITableView *)tableView 
+targetIndexPathForMoveFromRowAtIndexPath:(NSIndexPath *)sourceIndexPath 
+	   toProposedIndexPath:(NSIndexPath *)proposedDestinationIndexPath
+{
+	if ([proposedDestinationIndexPath row] < [stations count]) {
+		return proposedDestinationIndexPath;
+	}
+	//User is trying to move a row beneath 'Add New '. 
+	//this is not allowed
+	NSIndexPath *betterIndexPath = [NSIndexPath indexPathForRow:[stations count] - 1 
+													  inSection:0];
+	return betterIndexPath;
+}
+
+
+#pragma mark -
+#pragma mark Memmory Managment
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
     [super didReceiveMemoryWarning];
