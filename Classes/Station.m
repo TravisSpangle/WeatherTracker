@@ -29,22 +29,6 @@
 	
 	float randomLatitude = (float)rand() / 100.00f;
 	float randomLongitude = (float)rand() / 100.00f;
-	//int randomValue = random() % 100;
-	
-	/*NSString *randomSerialNumber = [NSString stringWithFormat:@"%c%c%c%c%c",
-							'0' + random() % 10,
-							'A' + random() % 26,
-							'0' + random() % 10,
-							'A' + random() % 26,
-							'0' + random() % 10];*/
-	//Once again, ingnore the memory problems iwth this method
-	//We use "self" instead of the name of the class in class methods...
-	//Keep reading to find out why
-	
-	/*station *newStation = 
-		[[[self alloc] initWithPossessionName:randomStationName
-							  valueInDollars:randomValue
-								serialNumber:randomSerialNumber] autorelease];*/
 	
 	Station *newStation = 
 	[[[self alloc] initWithStationName: randomStationName 
@@ -56,9 +40,6 @@
 
 -(id)init
 {
-	/*return [self initWithStationName:@"New Station"
-						 stationCode:0
-						   serialNumber:@""];*/
 	return [self initWithStationName:@"New Station" 
 						 stationCode:@"NEW" 
 							latitude:00.00 
@@ -72,28 +53,6 @@
 							latitude:00.00 
 						   longitude:00.00];
 }
-
-/*
-- (id)initWithPossessionName:(NSString *)name 
-			  valueInDollars:(int)value 
-				serialNumber:(NSString *)sNumber
-{
-	//Call the superclass's designated initializer
-	self = [super init];
-	
-	//did the initialization fail?
-	if (!self)
-		return nil;
-	
-	//Give the instance variables initial values
-	[self setPossessionName:name];
-	[self setValueInDollars:value];
-	[self setSerialNumber:sNumber];
-	dateCreated = [[NSDate alloc] init];
-	
-	//Return the address of the newly initialzied object
-	return self;
-}*/
 
 - (id)initWithStationName:(NSString *)name
 			  stationCode:(NSString *)code
@@ -112,21 +71,6 @@
 	return self;
 }
 
-#pragma mark Action methods
-/*
--(NSString *)description
-{
-	NSString *descriptionString = 
-	[[NSString alloc] initWithFormat:@"%@ (%@): Worth $%d, Recorded on %@",
-	 possessionName,
-	 serialNumber,
-	 valueInDollars,
-	  dateCreated];
-	
-	return [descriptionString autorelease];
-}
- */
-
 #pragma mark Dealloc
 
 - (void)dealloc
@@ -134,11 +78,6 @@
 	[stationName release];
 	[stationCode release];
 	
-	/*
-	[possessionName release];
-	[serialNumber release];
-	[dateCreated release];
-	 */
 	[super dealloc];
 }
 	
