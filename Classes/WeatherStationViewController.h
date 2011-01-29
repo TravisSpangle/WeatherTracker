@@ -10,8 +10,8 @@
 
 
 @interface WeatherStationViewController : UITableViewController {
-	UIView *headerView;
+//	UIView *headerView;
 	NSMutableArray *stations;
 }
-- (UIView *)headerView;
+//- (UIView *)headerView;
 @end

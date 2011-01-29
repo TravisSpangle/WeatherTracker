@@ -20,6 +20,9 @@
 		[stations addObject:[Station randomStation]];
 	}
 	
+	[[self navigationItem] setLeftBarButtonItem:[self editButtonItem]];
+	[[self navigationItem] setTitle:@"Stations"];
+	
 	return self;
 }
 	 
@@ -57,67 +60,7 @@
 */
 
 #pragma mark -
-#pragma mark Header Methods
-- (UIView *)headerView
-{
-	if(headerView)
-		return headerView;		
-	
-    // Create a UIButton object, simple rounded rect style
-    UIButton *editButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-	
-    // Set the title of this button to "Edit"
-    [editButton setTitle:@"Edit" forState:UIControlStateNormal];
-	
-    // How wide is the screen?
-    float w = [[UIScreen mainScreen] bounds].size.width;
-	
-    // Create a rectangle for the button
-    CGRect editButtonFrame = CGRectMake(8.0, 8.0, w - 16.0, 30.0);	
-    [editButton setFrame:editButtonFrame];
-	
-    // When this button is tapped, send the message 
-    // editingButtonPressed: to this instance of ItemsViewController
-    [editButton addTarget:self 
-                   action:@selector(editingButtonPressed:) 
-         forControlEvents:UIControlEventTouchUpInside];
-	
-    // Create a rectangle for the headerView that will contain the button
-    CGRect headerViewFrame = CGRectMake(0, 0, w, 48);
-    headerView = [[UIView alloc] initWithFrame:headerViewFrame];
-	
-    // Add button to the headerView's view hierarchy
-    [headerView addSubview:editButton];   
-    
-    return headerView;
-}
-- (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
-	return [self headerView];
-}
-
-- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section {
-	return [[self headerView] frame].size.height;
-}
-
-#pragma mark -
 #pragma mark Table Action Operations
-
-- (void)editingButtonPressed:(id)sender {
-	// if we are currently in editing mode...
-	if ([self isEditing]) {
-		// change text of button to inform user of state
-		[sender setTitle:@"Edit" forState:UIControlStateNormal];
-		// turn off editing mode
-		[self setEditing:NO animated:YES];
-	} else {
-		// change text of button to inform user of state
-		[sender setTitle:@"Done" forState:UIControlStateNormal];
-		// enter editing mode
-		[self setEditing:YES animated:YES];
-	}
-}
-
-
 
 - (void)setEditing:(BOOL)flag animated:(BOOL)animated
 {

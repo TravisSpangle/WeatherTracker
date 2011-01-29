@@ -25,6 +25,13 @@
 	/*Place the view int eh window hierarchy*/
 	[window setRootViewController:weatherStationViewController];
     
+    UINavigationController *navController = [[UINavigationController alloc] 
+											 initWithRootViewController:weatherStationViewController];
+	
+    // Place navigation controller's view in the window hierarchy
+    [window setRootViewController:navController];	
+    [navController release];
+	
     [self.window makeKeyAndVisible];
     
     return YES;

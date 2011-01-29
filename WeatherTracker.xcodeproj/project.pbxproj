@@ -16,6 +16,8 @@
 		53A7553D12F33CA500471908 /* WeatherStationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */; };
 		53A7557812F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */; };
 		53A7557E12F3409100471908 /* Station.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A7557D12F3409100471908 /* Station.m */; };
+		53A756E612F3933800471908 /* StationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A756E412F3933800471908 /* StationDetailViewController.m */; };
+		53A756E712F3933800471908 /* StationDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 53A756E512F3933800471908 /* StationDetailViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,9 @@
 		53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Homework 3 WeatherTracker Part 1.pdf"; sourceTree = "<group>"; };
 		53A7557C12F3409100471908 /* Station.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Station.h; sourceTree = "<group>"; };
 		53A7557D12F3409100471908 /* Station.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Station.m; sourceTree = "<group>"; };
+		53A756E312F3933800471908 /* StationDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StationDetailViewController.h; sourceTree = "<group>"; };
+		53A756E412F3933800471908 /* StationDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StationDetailViewController.m; sourceTree = "<group>"; };
+		53A756E512F3933800471908 /* StationDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StationDetailViewController.xib; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "WeatherTracker-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +60,7 @@
 			children = (
 				53A7553E12F33CAD00471908 /* Controllers */,
 				53A7553A12F33B9500471908 /* Models */,
+				53A756E812F3934000471908 /* views */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -120,6 +126,9 @@
 		53A7553E12F33CAD00471908 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				53A756E312F3933800471908 /* StationDetailViewController.h */,
+				53A756E412F3933800471908 /* StationDetailViewController.m */,
+				53A756E512F3933800471908 /* StationDetailViewController.xib */,
 				1D3623240D0F684500981E51 /* AppDelegate.h */,
 				1D3623250D0F684500981E51 /* AppDelegate.m */,
 				53A7553B12F33CA500471908 /* WeatherStationViewController.h */,
@@ -134,6 +143,13 @@
 				53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */,
 			);
 			name = "miscellaneous ";
+			sourceTree = "<group>";
+		};
+		53A756E812F3934000471908 /* views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,6 +203,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				53A7557812F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf in Resources */,
+				53A756E712F3933800471908 /* StationDetailViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,6 +218,7 @@
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				53A7553D12F33CA500471908 /* WeatherStationViewController.m in Sources */,
 				53A7557E12F3409100471908 /* Station.m in Sources */,
+				53A756E612F3933800471908 /* StationDetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
