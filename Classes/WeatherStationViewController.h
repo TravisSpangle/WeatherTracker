@@ -7,11 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class StationDetailViewController;
 
 @interface WeatherStationViewController : UITableViewController {
-//	UIView *headerView;
+	StationDetailViewController *detailViewController;
+	
 	NSMutableArray *stations;
 }
-//- (UIView *)headerView;
+
 @end

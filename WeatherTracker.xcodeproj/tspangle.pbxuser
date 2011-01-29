@@ -64,7 +64,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					432,
+					481,
 					20,
 					48,
 					43,
@@ -252,6 +252,81 @@
 			53A756EB12F3935B00471908 /* PBXTextBookmark */ = 53A756EB12F3935B00471908 /* PBXTextBookmark */;
 			53A756EC12F3935B00471908 /* PBXTextBookmark */ = 53A756EC12F3935B00471908 /* PBXTextBookmark */;
 			53A756ED12F3935B00471908 /* PBXTextBookmark */ = 53A756ED12F3935B00471908 /* PBXTextBookmark */;
+			53A756F012F3943000471908 /* PBXTextBookmark */ = 53A756F012F3943000471908 /* PBXTextBookmark */;
+			53A756F312F3943200471908 /* PBXTextBookmark */ = 53A756F312F3943200471908 /* PBXTextBookmark */;
+			53A756F412F3943300471908 /* PBXTextBookmark */ = 53A756F412F3943300471908 /* PBXTextBookmark */;
+			53A756F512F3943B00471908 /* PBXTextBookmark */ = 53A756F512F3943B00471908 /* PBXTextBookmark */;
+			53A756F612F3943C00471908 /* PBXTextBookmark */ = 53A756F612F3943C00471908 /* PBXTextBookmark */;
+			53A756F812F3951E00471908 /* PBXTextBookmark */ = 53A756F812F3951E00471908 /* PBXTextBookmark */;
+			53A756F912F3951E00471908 /* PBXTextBookmark */ = 53A756F912F3951E00471908 /* PBXTextBookmark */;
+			53A756FA12F3951E00471908 /* PBXTextBookmark */ = 53A756FA12F3951E00471908 /* PBXTextBookmark */;
+			53A756FB12F3960F00471908 /* PBXTextBookmark */ = 53A756FB12F3960F00471908 /* PBXTextBookmark */;
+			53A756FC12F3962E00471908 /* PBXTextBookmark */ = 53A756FC12F3962E00471908 /* PBXTextBookmark */;
+			53A7570112F3971600471908 /* PBXTextBookmark */ = 53A7570112F3971600471908 /* PBXTextBookmark */;
+			53A7570212F3971900471908 /* PBXTextBookmark */ = 53A7570212F3971900471908 /* PBXTextBookmark */;
+			53A7570312F3971900471908 /* PBXTextBookmark */ = 53A7570312F3971900471908 /* PBXTextBookmark */;
+			53A7570412F3971900471908 /* PBXTextBookmark */ = 53A7570412F3971900471908 /* PBXTextBookmark */;
+			53A7570712F397C800471908 /* PBXTextBookmark */ = 53A7570712F397C800471908 /* PBXTextBookmark */;
+			53A7570812F397C900471908 /* PBXTextBookmark */ = 53A7570812F397C900471908 /* PBXTextBookmark */;
+			53A7570912F397D200471908 /* PBXTextBookmark */ = 53A7570912F397D200471908 /* PBXTextBookmark */;
+			53A7570A12F397D300471908 /* PBXTextBookmark */ = 53A7570A12F397D300471908 /* PBXTextBookmark */;
+			53A7570D12F3989500471908 /* XCBuildMessageTextBookmark */ = 53A7570D12F3989500471908 /* XCBuildMessageTextBookmark */;
+			53A7570E12F3989500471908 /* PBXTextBookmark */ = 53A7570E12F3989500471908 /* PBXTextBookmark */;
+			53A7571112F398A400471908 /* XCBuildMessageTextBookmark */ = 53A7571112F398A400471908 /* XCBuildMessageTextBookmark */;
+			53A7571212F398A400471908 /* PBXTextBookmark */ = 53A7571212F398A400471908 /* PBXTextBookmark */;
+			53A7571512F398B400471908 /* XCBuildMessageTextBookmark */ = 53A7571512F398B400471908 /* XCBuildMessageTextBookmark */;
+			53A7571612F398B400471908 /* PBXTextBookmark */ = 53A7571612F398B400471908 /* PBXTextBookmark */;
+			53A7571912F398C900471908 /* PBXTextBookmark */ = 53A7571912F398C900471908 /* PBXTextBookmark */;
+			53A7571C12F398CE00471908 /* PBXTextBookmark */ = 53A7571C12F398CE00471908 /* PBXTextBookmark */;
+			53A7571D12F398CE00471908 /* PBXTextBookmark */ = 53A7571D12F398CE00471908 /* PBXTextBookmark */;
+			53A7571E12F398CE00471908 /* PBXTextBookmark */ = 53A7571E12F398CE00471908 /* PBXTextBookmark */;
+			53A7571F12F398CE00471908 /* PBXTextBookmark */ = 53A7571F12F398CE00471908 /* PBXTextBookmark */;
+			53A7572012F398CE00471908 /* PBXTextBookmark */ = 53A7572012F398CE00471908 /* PBXTextBookmark */;
+			53A7572112F398D600471908 /* PBXTextBookmark */ = 53A7572112F398D600471908 /* PBXTextBookmark */;
+			53A7572212F398D600471908 /* PBXTextBookmark */ = 53A7572212F398D600471908 /* PBXTextBookmark */;
+			53A7572312F3993E00471908 /* PBXTextBookmark */ = 53A7572312F3993E00471908 /* PBXTextBookmark */;
+			53A7572412F3993E00471908 /* PBXTextBookmark */ = 53A7572412F3993E00471908 /* PBXTextBookmark */;
+			53A7572512F3993E00471908 /* PBXTextBookmark */ = 53A7572512F3993E00471908 /* PBXTextBookmark */;
+			53A7572612F3993E00471908 /* PBXTextBookmark */ = 53A7572612F3993E00471908 /* PBXTextBookmark */;
+			53A7572712F39AC100471908 /* PBXTextBookmark */ = 53A7572712F39AC100471908 /* PBXTextBookmark */;
+			53A7572C12F39B1400471908 /* PBXTextBookmark */ = 53A7572C12F39B1400471908 /* PBXTextBookmark */;
+			53A7572D12F39B1400471908 /* XCBuildMessageTextBookmark */ = 53A7572D12F39B1400471908 /* XCBuildMessageTextBookmark */;
+			53A7572E12F39B1400471908 /* PBXTextBookmark */ = 53A7572E12F39B1400471908 /* PBXTextBookmark */;
+			53A7573312F39B4F00471908 /* PBXTextBookmark */ = 53A7573312F39B4F00471908 /* PBXTextBookmark */;
+			53A7573412F39B4F00471908 /* XCBuildMessageTextBookmark */ = 53A7573412F39B4F00471908 /* XCBuildMessageTextBookmark */;
+			53A7573512F39B4F00471908 /* PBXTextBookmark */ = 53A7573512F39B4F00471908 /* PBXTextBookmark */;
+			53A7573612F39B5000471908 /* PBXTextBookmark */ = 53A7573612F39B5000471908 /* PBXTextBookmark */;
+			53A7573712F39B5000471908 /* PBXTextBookmark */ = 53A7573712F39B5000471908 /* PBXTextBookmark */;
+			53A7573812F39B5000471908 /* PBXTextBookmark */ = 53A7573812F39B5000471908 /* PBXTextBookmark */;
+			53A7573B12F39B8700471908 /* PBXTextBookmark */ = 53A7573B12F39B8700471908 /* PBXTextBookmark */;
+			53A7573E12F39BA300471908 /* XCBuildMessageTextBookmark */ = 53A7573E12F39BA300471908 /* XCBuildMessageTextBookmark */;
+			53A7573F12F39BA300471908 /* PBXTextBookmark */ = 53A7573F12F39BA300471908 /* PBXTextBookmark */;
+			53A7574212F39BD900471908 /* XCBuildMessageTextBookmark */ = 53A7574212F39BD900471908 /* XCBuildMessageTextBookmark */;
+			53A7574312F39BD900471908 /* PBXTextBookmark */ = 53A7574312F39BD900471908 /* PBXTextBookmark */;
+			53A7574612F39BDD00471908 /* PBXTextBookmark */ = 53A7574612F39BDD00471908 /* PBXTextBookmark */;
+			53A7574D12F39BFF00471908 /* PBXTextBookmark */ = 53A7574D12F39BFF00471908 /* PBXTextBookmark */;
+			53A7575012F39C4A00471908 /* PBXTextBookmark */ = 53A7575012F39C4A00471908 /* PBXTextBookmark */;
+			53A7575312F39C4C00471908 /* PBXTextBookmark */ = 53A7575312F39C4C00471908 /* PBXTextBookmark */;
+			53A7575412F39C4D00471908 /* PBXTextBookmark */ = 53A7575412F39C4D00471908 /* PBXTextBookmark */;
+			53A7575512F39C4D00471908 /* PBXTextBookmark */ = 53A7575512F39C4D00471908 /* PBXTextBookmark */;
+			53A7575612F39C4D00471908 /* PBXTextBookmark */ = 53A7575612F39C4D00471908 /* PBXTextBookmark */;
+			53A7575712F39C4D00471908 /* PBXTextBookmark */ = 53A7575712F39C4D00471908 /* PBXTextBookmark */;
+			53A7575812F39C5C00471908 /* PBXTextBookmark */ = 53A7575812F39C5C00471908 /* PBXTextBookmark */;
+			53A7575912F39C5C00471908 /* PBXTextBookmark */ = 53A7575912F39C5C00471908 /* PBXTextBookmark */;
+			53A7575C12F39C7400471908 /* PBXTextBookmark */ = 53A7575C12F39C7400471908 /* PBXTextBookmark */;
+			53A7575F12F39C7500471908 /* PBXTextBookmark */ = 53A7575F12F39C7500471908 /* PBXTextBookmark */;
+			53A7576012F39C7600471908 /* PBXTextBookmark */ = 53A7576012F39C7600471908 /* PBXTextBookmark */;
+			53A7576112F39C7600471908 /* PBXTextBookmark */ = 53A7576112F39C7600471908 /* PBXTextBookmark */;
+			53A7576212F39C7600471908 /* PBXTextBookmark */ = 53A7576212F39C7600471908 /* PBXTextBookmark */;
+			53A7576312F39C7600471908 /* PBXTextBookmark */ = 53A7576312F39C7600471908 /* PBXTextBookmark */;
+			53A7576412F39CE000471908 /* PBXTextBookmark */ = 53A7576412F39CE000471908 /* PBXTextBookmark */;
+			53A7576512F39CE000471908 /* PBXTextBookmark */ = 53A7576512F39CE000471908 /* PBXTextBookmark */;
+			53A7576612F39D0A00471908 /* PBXTextBookmark */ = 53A7576612F39D0A00471908 /* PBXTextBookmark */;
+			53A7576712F39D0A00471908 /* PBXTextBookmark */ = 53A7576712F39D0A00471908 /* PBXTextBookmark */;
+			53A7576812F39D0A00471908 /* PBXTextBookmark */ = 53A7576812F39D0A00471908 /* PBXTextBookmark */;
+			53A7576912F39D0A00471908 /* PBXTextBookmark */ = 53A7576912F39D0A00471908 /* PBXTextBookmark */;
+			53A7576A12F39D0A00471908 /* PBXTextBookmark */ = 53A7576A12F39D0A00471908 /* PBXTextBookmark */;
+			53A7576B12F39D0A00471908 /* PBXTextBookmark */ = 53A7576B12F39D0A00471908 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5350DA8F12F338BF0099B93C /* Source Control */;
 		userBuildSettings = {
@@ -317,16 +392,16 @@
 	};
 	53A7553B12F33CA500471908 /* WeatherStationViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {610, 550}}";
-			sepNavSelRange = "{254, 0}";
-			sepNavVisRange = "{0, 335}";
+			sepNavIntBoundsRect = "{{0, 0}, {659, 579}}";
+			sepNavSelRange = "{340, 0}";
+			sepNavVisRange = "{0, 376}";
 		};
 	};
 	53A7553C12F33CA500471908 /* WeatherStationViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 2535}}";
-			sepNavSelRange = "{1592, 0}";
-			sepNavVisRange = "{1027, 1351}";
+			sepNavIntBoundsRect = "{{0, 0}, {964, 2756}}";
+			sepNavSelRange = "{4941, 0}";
+			sepNavVisRange = "{4740, 1306}";
 		};
 	};
 	53A7555312F33E0100471908 /* XCBuildMessageTextBookmark */ = {
@@ -373,7 +448,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 12";
 		rLen = 0;
-		rLoc = 249;
+		rLoc = 284;
 		rType = 0;
 		vrLen = 261;
 		vrLoc = 0;
@@ -450,16 +525,16 @@
 	};
 	53A7557C12F3409100471908 /* Station.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {942, 585}}";
-			sepNavSelRange = "{186, 7}";
+			sepNavIntBoundsRect = "{{0, 0}, {659, 585}}";
+			sepNavSelRange = "{172, 0}";
 			sepNavVisRange = "{0, 1054}";
 		};
 	};
 	53A7557D12F3409100471908 /* Station.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {614, 1703}}";
-			sepNavSelRange = "{503, 0}";
-			sepNavVisRange = "{0, 1295}";
+			sepNavIntBoundsRect = "{{0, 0}, {659, 1703}}";
+			sepNavSelRange = "{183, 73}";
+			sepNavVisRange = "{0, 1425}";
 		};
 	};
 	53A7558912F3429300471908 /* PBXTextBookmark */ = {
@@ -488,7 +563,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 0;
-		rLoc = 135;
+		rLoc = 134;
 		rType = 1;
 	};
 	53A7559112F3469600471908 /* PBXTextBookmark */ = {
@@ -496,7 +571,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 137";
 		rLen = 0;
-		rLoc = 3385;
+		rLoc = 3312;
 		rType = 0;
 		vrLen = 220;
 		vrLoc = 3316;
@@ -507,7 +582,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 109;
+		rLoc = 108;
 		rType = 1;
 	};
 	53A7559512F3471300471908 /* PBXTextBookmark */ = {
@@ -515,7 +590,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 110";
 		rLen = 0;
-		rLoc = 2952;
+		rLoc = 2879;
 		rType = 0;
 		vrLen = 215;
 		vrLoc = 2845;
@@ -526,7 +601,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 145;
+		rLoc = 144;
 		rType = 1;
 	};
 	53A7559912F3474100471908 /* PBXTextBookmark */ = {
@@ -534,7 +609,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 180;
 		vrLoc = 3311;
@@ -564,7 +639,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1531;
 		vrLoc = 38;
@@ -575,7 +650,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 145;
+		rLoc = 144;
 		rType = 1;
 	};
 	53A755A012F347C200471908 /* PBXTextBookmark */ = {
@@ -583,7 +658,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 181;
 		vrLoc = 3320;
@@ -593,7 +668,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 181;
 		vrLoc = 3320;
@@ -603,7 +678,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 181;
 		vrLoc = 3320;
@@ -613,7 +688,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 181;
 		vrLoc = 3320;
@@ -623,7 +698,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "station.m: 146";
 		rLen = 0;
-		rLoc = 3495;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 181;
 		vrLoc = 3320;
@@ -634,7 +709,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 14;
+		rLoc = 15;
 		rType = 1;
 	};
 	53A755B312F34A1300471908 /* PBXTextBookmark */ = {
@@ -642,7 +717,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 281;
 		vrLoc = 0;
@@ -652,7 +727,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -662,7 +737,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -672,7 +747,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -682,7 +757,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -692,7 +767,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -722,7 +797,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 13";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 287;
 		vrLoc = 0;
@@ -732,7 +807,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 20";
 		rLen = 7;
-		rLoc = 465;
+		rLoc = 505;
 		rType = 0;
 		vrLen = 1029;
 		vrLoc = 0;
@@ -742,7 +817,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 46";
 		rLen = 0;
-		rLoc = 628;
+		rLoc = 668;
 		rType = 0;
 		vrLen = 1156;
 		vrLoc = 509;
@@ -752,7 +827,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -762,7 +837,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 368;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -772,7 +847,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 47";
 		rLen = 0;
-		rLoc = 631;
+		rLoc = 777;
 		rType = 0;
 		vrLen = 1075;
 		vrLoc = 1396;
@@ -781,8 +856,8 @@
 		isa = PBXTextBookmark;
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
-		rLen = 23;
-		rLoc = 306;
+		rLen = 0;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 330;
 		vrLoc = 0;
@@ -792,7 +867,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 47";
 		rLen = 0;
-		rLoc = 631;
+		rLoc = 777;
 		rType = 0;
 		vrLen = 1075;
 		vrLoc = 1396;
@@ -802,7 +877,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 85";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 996;
 		vrLoc = 1542;
@@ -813,7 +888,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 15;
+		rLoc = 16;
 		rType = 1;
 	};
 	53A755F612F369E900471908 /* PBXTextBookmark */ = {
@@ -821,7 +896,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 273;
 		vrLoc = 57;
@@ -831,7 +906,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -841,7 +916,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -851,7 +926,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -861,7 +936,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -871,7 +946,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -881,7 +956,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 318;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 0;
@@ -891,7 +966,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 122";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 1488;
 		vrLoc = 2470;
@@ -901,7 +976,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 137";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 1420;
 		vrLoc = 2868;
@@ -911,7 +986,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -921,7 +996,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -931,7 +1006,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -941,7 +1016,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -951,7 +1026,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 156";
 		rLen = 0;
-		rLoc = 2464;
+		rLoc = 2610;
 		rType = 0;
 		vrLen = 1399;
 		vrLoc = 4019;
@@ -961,7 +1036,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -971,7 +1046,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -981,7 +1056,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -991,7 +1066,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1001,7 +1076,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1011,7 +1086,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 168";
 		rLen = 0;
-		rLoc = 2928;
+		rLoc = 3074;
 		rType = 0;
 		vrLen = 1547;
 		vrLoc = 4481;
@@ -1021,7 +1096,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1031,7 +1106,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1041,7 +1116,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1051,7 +1126,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1061,7 +1136,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 178";
 		rLen = 0;
-		rLoc = 3006;
+		rLoc = 3152;
 		rType = 0;
 		vrLen = 1531;
 		vrLoc = 4548;
@@ -1071,7 +1146,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1081,7 +1156,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1091,7 +1166,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1101,7 +1176,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1111,7 +1186,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 181";
 		rLen = 0;
-		rLoc = 3033;
+		rLoc = 3179;
 		rType = 0;
 		vrLen = 1522;
 		vrLoc = 4651;
@@ -1121,7 +1196,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1131,7 +1206,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1141,7 +1216,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1151,7 +1226,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1161,7 +1236,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 152";
 		rLen = 0;
-		rLoc = 2464;
+		rLoc = 2610;
 		rType = 0;
 		vrLen = 1401;
 		vrLoc = 3784;
@@ -1171,7 +1246,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1181,7 +1256,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1191,7 +1266,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1201,7 +1276,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1211,7 +1286,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 151";
 		rLen = 0;
-		rLoc = 2464;
+		rLoc = 2610;
 		rType = 0;
 		vrLen = 1391;
 		vrLoc = 3870;
@@ -1221,7 +1296,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1231,7 +1306,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1241,7 +1316,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1251,7 +1326,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1261,7 +1336,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 150";
 		rLen = 0;
-		rLoc = 2464;
+		rLoc = 2610;
 		rType = 0;
 		vrLen = 1340;
 		vrLoc = 3917;
@@ -1271,7 +1346,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1281,7 +1356,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 150";
 		rLen = 0;
-		rLoc = 2464;
+		rLoc = 2610;
 		rType = 0;
 		vrLen = 1364;
 		vrLoc = 3917;
@@ -1291,7 +1366,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1301,7 +1376,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1311,7 +1386,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1321,7 +1396,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 188";
 		rLen = 0;
-		rLoc = 5329;
+		rLoc = 5866;
 		rType = 0;
 		vrLen = 1376;
 		vrLoc = 4368;
@@ -1331,7 +1406,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1341,7 +1416,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1351,7 +1426,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1361,7 +1436,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1371,7 +1446,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 165";
 		rLen = 0;
-		rLoc = 2876;
+		rLoc = 3022;
 		rType = 0;
 		vrLen = 1324;
 		vrLoc = 4672;
@@ -1381,7 +1456,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1391,7 +1466,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1401,7 +1476,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1411,7 +1486,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 16";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 57;
@@ -1422,7 +1497,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 86;
+		rLoc = 92;
 		rType = 1;
 	};
 	53A7566712F36F2500471908 /* PBXTextBookmark */ = {
@@ -1430,7 +1505,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 184";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 463;
 		vrLoc = 5358;
@@ -1441,7 +1516,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 86;
+		rLoc = 92;
 		rType = 1;
 	};
 	53A7567812F36FF100471908 /* PBXTextBookmark */ = {
@@ -1449,7 +1524,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 184";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 463;
 		vrLoc = 5358;
@@ -1460,7 +1535,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 86;
+		rLoc = 92;
 		rType = 1;
 	};
 	53A7567A12F3700A00471908 /* PBXTextBookmark */ = {
@@ -1468,7 +1543,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 184";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 602;
 		vrLoc = 5358;
@@ -1478,7 +1553,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 184";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 602;
 		vrLoc = 5358;
@@ -1488,7 +1563,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 184";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 602;
 		vrLoc = 5358;
@@ -1498,7 +1573,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 188";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 547;
 		vrLoc = 5358;
@@ -1508,7 +1583,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 18";
 		rLen = 0;
-		rLoc = 335;
+		rLoc = 376;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 0;
@@ -1519,7 +1594,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 86;
+		rLoc = 92;
 		rType = 1;
 	};
 	53A7568812F3707100471908 /* PBXTextBookmark */ = {
@@ -1527,7 +1602,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 185";
 		rLen = 0;
-		rLoc = 2515;
+		rLoc = 2661;
 		rType = 0;
 		vrLen = 1396;
 		vrLoc = 5292;
@@ -1537,7 +1612,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 162";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 5189;
@@ -1547,7 +1622,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 162";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 672;
 		vrLoc = 5167;
@@ -1557,7 +1632,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 672;
 		vrLoc = 4530;
@@ -1567,7 +1642,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 151";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4495;
@@ -1577,7 +1652,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 151";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4495;
@@ -1587,7 +1662,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 146";
 		rLen = 0;
-		rLoc = 2464;
+		rLoc = 2610;
 		rType = 0;
 		vrLen = 1477;
 		vrLoc = 4015;
@@ -1597,7 +1672,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 151";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4495;
@@ -1607,7 +1682,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 151";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4495;
@@ -1617,7 +1692,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1627,7 +1702,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1637,7 +1712,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 227";
 		rLen = 0;
-		rLoc = 5327;
+		rLoc = 5864;
 		rType = 0;
 		vrLen = 1184;
 		vrLoc = 6352;
@@ -1647,7 +1722,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1657,7 +1732,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1667,7 +1742,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 227";
 		rLen = 0;
-		rLoc = 5327;
+		rLoc = 5864;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 6352;
@@ -1687,7 +1762,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "Station.m: 20";
 		rLen = 0;
-		rLoc = 503;
+		rLoc = 430;
 		rType = 0;
 		vrLen = 1399;
 		vrLoc = 0;
@@ -1697,7 +1772,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1707,7 +1782,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1717,7 +1792,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1727,7 +1802,7 @@
 		fRef = 53A7557D12F3409100471908 /* Station.m */;
 		name = "Station.m: 20";
 		rLen = 0;
-		rLoc = 503;
+		rLoc = 430;
 		rType = 0;
 		vrLen = 1295;
 		vrLoc = 0;
@@ -1757,7 +1832,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1767,7 +1842,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 143";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 4331;
@@ -1787,7 +1862,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 18";
 		rLen = 0;
-		rLoc = 335;
+		rLoc = 376;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 0;
@@ -1797,7 +1872,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 24";
 		rLen = 8;
-		rLoc = 599;
+		rLoc = 639;
 		rType = 0;
 		vrLen = 1035;
 		vrLoc = 0;
@@ -1807,7 +1882,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 148";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 542;
 		vrLoc = 4465;
@@ -1817,7 +1892,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 148";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 542;
 		vrLoc = 4465;
@@ -1827,7 +1902,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 24";
 		rLen = 8;
-		rLoc = 599;
+		rLoc = 639;
 		rType = 0;
 		vrLen = 1035;
 		vrLoc = 0;
@@ -1837,7 +1912,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 105";
 		rLen = 0;
-		rLoc = 1592;
+		rLoc = 1738;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 2199;
@@ -1847,7 +1922,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 148";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 542;
 		vrLoc = 4465;
@@ -1857,7 +1932,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 148";
 		rLen = 0;
-		rLoc = 2466;
+		rLoc = 2612;
 		rType = 0;
 		vrLen = 542;
 		vrLoc = 4465;
@@ -1867,7 +1942,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 159";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 614;
 		vrLoc = 4275;
@@ -1877,7 +1952,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 159";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 614;
 		vrLoc = 4275;
@@ -1887,7 +1962,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 159";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 614;
 		vrLoc = 4275;
@@ -1897,7 +1972,7 @@
 		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
 		name = "WeatherStationViewController.h: 13";
 		rLen = 0;
-		rLoc = 254;
+		rLoc = 340;
 		rType = 0;
 		vrLen = 335;
 		vrLoc = 0;
@@ -1907,7 +1982,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 117";
 		rLen = 0;
-		rLoc = 1645;
+		rLoc = 1791;
 		rType = 0;
 		vrLen = 1180;
 		vrLoc = 2482;
@@ -1917,7 +1992,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 243";
 		rLen = 0;
-		rLoc = 5509;
+		rLoc = 6046;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 6757;
@@ -1927,7 +2002,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 159";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 614;
 		vrLoc = 4275;
@@ -1937,7 +2012,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 159";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 614;
 		vrLoc = 4275;
@@ -1947,16 +2022,23 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 95";
 		rLen = 0;
-		rLoc = 2737;
+		rLoc = 2883;
 		rType = 0;
 		vrLen = 712;
 		vrLoc = 2876;
 	};
 	53A756E312F3933800471908 /* StationDetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {610, 550}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 254}";
+			sepNavIntBoundsRect = "{{0, 0}, {659, 579}}";
+			sepNavSelRange = "{392, 0}";
+			sepNavVisRange = "{0, 499}";
+		};
+	};
+	53A756E412F3933800471908 /* StationDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1274}}";
+			sepNavSelRange = "{1171, 0}";
+			sepNavVisRange = "{457, 1500}";
 		};
 	};
 	53A756EB12F3935B00471908 /* PBXTextBookmark */ = {
@@ -1964,7 +2046,7 @@
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 60";
 		rLen = 0;
-		rLoc = 1592;
+		rLoc = 1738;
 		rType = 0;
 		vrLen = 1351;
 		vrLoc = 1027;
@@ -1973,7 +2055,7 @@
 		isa = PBXTextBookmark;
 		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854776052;
 		rType = 0;
 	};
 	53A756ED12F3935B00471908 /* PBXTextBookmark */ = {
@@ -1984,6 +2066,749 @@
 		rLoc = 0;
 		rType = 0;
 		vrLen = 254;
+		vrLoc = 0;
+	};
+	53A756F012F3943000471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A756F312F3943200471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A756F412F3943300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	53A756F512F3943B00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A756F612F3943C00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A756F812F3951E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 0;
+	};
+	53A756F912F3951E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 17";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	53A756FA12F3951E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 11";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	53A756FB12F3960F00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 14";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	53A756FC12F3962E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 14";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	53A7570112F3971600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A7570212F3971900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 12";
+		rLen = 177;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	53A7570312F3971900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 28";
+		rLen = 0;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 1358;
+		vrLoc = 0;
+	};
+	53A7570412F3971900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 64";
+		rLen = 0;
+		rLoc = 2751;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 863;
+	};
+	53A7570712F397C800471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A7570812F397C900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 64";
+		rLen = 0;
+		rLoc = 2751;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 863;
+	};
+	53A7570912F397D200471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A7570A12F397D300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 95";
+		rLen = 0;
+		rLoc = 2883;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 2876;
+	};
+	53A7570D12F3989500471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'ItemDetailViewController' undeclared (first use in this function)";
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 158;
+		rType = 1;
+	};
+	53A7570E12F3989500471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 153";
+		rLen = 0;
+		rLoc = 4867;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 4462;
+	};
+	53A7571112F398A400471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Receiver 'StationDetailViewController' is a forward class and corresponding @interface may not exist";
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 158;
+		rType = 1;
+	};
+	53A7571212F398A400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 153";
+		rLen = 0;
+		rLoc = 4867;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 4462;
+	};
+	53A7571512F398B400471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'StationDetailViewController' may not respond to '-setEditingStation:'";
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 162;
+		rType = 1;
+	};
+	53A7571612F398B400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 4454;
+	};
+	53A7571912F398C900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 4454;
+	};
+	53A7571C12F398CE00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 4454;
+	};
+	53A7571D12F398CE00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 64";
+		rLen = 0;
+		rLoc = 2751;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 863;
+	};
+	53A7571E12F398CE00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 12";
+		rLen = 177;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	53A7571F12F398CE00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	53A7572012F398CE00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 4253;
+	};
+	53A7572112F398D600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 4454;
+	};
+	53A7572212F398D600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 4454;
+	};
+	53A7572312F3993E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 1371;
+		vrLoc = 4253;
+	};
+	53A7572412F3993E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 19";
+		rLen = 14;
+		rLoc = 478;
+		rType = 0;
+		vrLen = 483;
+		vrLoc = 0;
+	};
+	53A7572512F3993E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 14";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 0;
+	};
+	53A7572612F3993E00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 14";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 0;
+	};
+	53A7572712F39AC100471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 61";
+		rLen = 0;
+		rLoc = 1934;
+		rType = 0;
+		vrLen = 1399;
+		vrLoc = 768;
+	};
+	53A7572C12F39B1400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 158";
+		rLen = 0;
+		rLoc = 4983;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 4454;
+	};
+	53A7572D12F39B1400471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected specifier-qualifier-list before 'Station'";
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 17;
+		rType = 1;
+	};
+	53A7572E12F39B1400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 9";
+		rLen = 0;
+		rLoc = 182;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 37;
+	};
+	53A7573312F39B4F00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 9";
+		rLen = 0;
+		rLoc = 182;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 3;
+	};
+	53A7573412F39B4F00471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible type for argument 1 of 'setText:'";
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 40;
+		rType = 1;
+	};
+	53A7573512F39B4F00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1305;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 909;
+	};
+	53A7573612F39B5000471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 22";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	53A7573712F39B5000471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 61";
+		rLen = 0;
+		rLoc = 1934;
+		rType = 0;
+		vrLen = 1399;
+		vrLoc = 768;
+	};
+	53A7573812F39B5000471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 10";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 1293;
+		vrLoc = 0;
+	};
+	53A7573B12F39B8700471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1305;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 909;
+	};
+	53A7573E12F39BA300471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Compile /Users/tspangle/Dropbox/IPhone/WeatherTracker/Classes/StationDetailViewController.m";
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 62;
+		rType = 1;
+	};
+	53A7573F12F39BA300471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 63";
+		rLen = 0;
+		rLoc = 1957;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 1833;
+	};
+	53A7574212F39BD900471908 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ':' before ';' token";
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 40;
+		rType = 1;
+	};
+	53A7574312F39BD900471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 41";
+		rLen = 0;
+		rLoc = 1171;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7574612F39BDD00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 41";
+		rLen = 0;
+		rLoc = 1171;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7574D12F39BFF00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7575012F39C4A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7575312F39C4C00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7575412F39C4D00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 16";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	53A7575512F39C4D00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 41";
+		rLen = 0;
+		rLoc = 1171;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 460;
+	};
+	53A7575612F39C4D00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	53A7575712F39C4D00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 34";
+		rLen = 0;
+		rLoc = 777;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 325;
+	};
+	53A7575812F39C5C00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7575912F39C5C00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7575C12F39C7400471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7575F12F39C7500471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7576012F39C7600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 41";
+		rLen = 0;
+		rLoc = 1171;
+		rType = 0;
+		vrLen = 1500;
+		vrLoc = 457;
+	};
+	53A7576112F39C7600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	53A7576212F39C7600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 33";
+		rLen = 0;
+		rLoc = 767;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 325;
+	};
+	53A7576312F39C7600471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 162";
+		rLen = 0;
+		rLoc = 4941;
+		rType = 0;
+		vrLen = 1264;
+		vrLoc = 4740;
+	};
+	53A7576412F39CE000471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7576512F39CE000471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 42";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 909;
+	};
+	53A7576612F39D0A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 162";
+		rLen = 0;
+		rLoc = 4941;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 4740;
+	};
+	53A7576712F39D0A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 41";
+		rLen = 0;
+		rLoc = 1171;
+		rType = 0;
+		vrLen = 1500;
+		vrLoc = 457;
+	};
+	53A7576812F39D0A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	53A7576912F39D0A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557D12F3409100471908 /* Station.m */;
+		name = "Station.m: 11";
+		rLen = 73;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 0;
+	};
+	53A7576A12F39D0A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557C12F3409100471908 /* Station.h */;
+		name = "Station.h: 25";
+		rLen = 0;
+		rLoc = 919;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	53A7576B12F39D0A00471908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7557C12F3409100471908 /* Station.h */;
+		name = "Station.h: 9";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 1054;
 		vrLoc = 0;
 	};
 	8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */ = {

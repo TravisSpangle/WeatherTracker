@@ -8,6 +8,7 @@
 
 #import "WeatherStationViewController.h"
 #import "Station.h"
+#import "StationDetailViewController.h"
 
 @implementation WeatherStationViewController
 
@@ -25,7 +26,12 @@
 	
 	return self;
 }
-	 
+
+- (void)viewWillAppear:(BOOL)animated
+{
+	[super viewWillAppear:animated];
+	[[self tableView] reloadData];
+}
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
@@ -144,6 +150,20 @@ forRowAtIndexPath:(NSIndexPath *)indexPath
 		[tableView insertRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] 
 						 withRowAnimation:UITableViewRowAnimationLeft];
 	}
+}
+
+- (void)tableView:(UITableView *)aTableView 
+didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+	if (!detailViewController) {
+		detailViewController = [[StationDetailViewController alloc] init];
+	}
+	
+	[detailViewController setEditingStation:
+	 [stations objectAtIndex:[indexPath row]]];
+	
+	[[self navigationController] pushViewController:detailViewController 
+										   animated:YES];
 }
 
 #pragma mark -

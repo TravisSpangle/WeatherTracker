@@ -9,7 +9,6 @@
 #import "Station.h"
 
 @implementation Station
-//@synthesize possessionName, serialNumber, valueInDollars, dateCreated;
 @synthesize stationName, stationCode, longitude, latitude;
 
 #pragma mark init methods

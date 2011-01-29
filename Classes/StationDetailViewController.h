@@ -7,10 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class Station;
 
 @interface StationDetailViewController : UIViewController {
-
+	IBOutlet UITextField *stationNameField;
+	IBOutlet UITextField *stationCodeField;
+	IBOutlet UITextField *latitude;
+	IBOutlet UITextField *longitude;
+	
+	Station *editingStation;
 }
-
+@property (nonatomic, assign) Station *editingStation;
 @end
