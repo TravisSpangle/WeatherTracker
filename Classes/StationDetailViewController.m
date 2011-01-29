@@ -29,6 +29,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 	[[self view] setBackgroundColor:[UIColor groupTableViewBackgroundColor]];
+	
 }
 
 - (void)viewWillAppear:(BOOL)animated
@@ -61,8 +62,49 @@
 	[editingStation setLongitude:[[longitude text] floatValue]];
 }
 
+#pragma mark -
+#pragma mark Keyboard Notification
 
-/*
+- (void)moveView:(int)offset
+{
+	//moves the view from under the keyboard
+	[UIView beginAnimations:nil context:NULL];
+	[UIView setAnimationDuration:0.3];
+
+	CGRect rect = self.view.frame;
+	rect.origin.y -= offset;
+	rect.size.height += offset;
+	self.view.frame = rect;
+
+	[UIView commitAnimations];
+}
+
+
+- (BOOL)textFieldShouldReturn:(UITextField *) sender {
+	//when return is hit should the view move back down? Return the keyboard on 'Return'
+	[sender resignFirstResponder];
+	if (verticalOffset!=0)
+	{
+		[self moveView: -verticalOffset];
+		verticalOffset = 0;
+	}
+	return TRUE;
+}
+
+- (void)textFieldDidBeginEditing:(UITextField *)theTextField
+{
+	int wantedOffset = theTextField.frame.origin.y-155;
+	
+	if ( wantedOffset < 0 ) { 
+		wantedOffset = 0;
+	} 
+	if ( wantedOffset != verticalOffset ) {
+		[self moveView: wantedOffset - verticalOffset];
+		verticalOffset = wantedOffset;
+	}
+}
+				
+				/*
 // Override to allow orientations other than the default portrait orientation.
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations.
@@ -99,6 +141,7 @@
 	[stationCodeField release];	
 	[latitude release];
 	[longitude release];
+	
     [super dealloc];
 }
 

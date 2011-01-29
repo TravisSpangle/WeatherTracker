@@ -9,13 +9,18 @@
 #import <UIKit/UIKit.h>
 @class Station;
 
-@interface StationDetailViewController : UIViewController {
+@interface StationDetailViewController : UIViewController <UITextFieldDelegate> {
+
 	IBOutlet UITextField *stationNameField;
 	IBOutlet UITextField *stationCodeField;
 	IBOutlet UITextField *latitude;
 	IBOutlet UITextField *longitude;
 	
 	Station *editingStation;
+	
+	int verticalOffset;
+
 }
 @property (nonatomic, assign) Station *editingStation;
+
 @end

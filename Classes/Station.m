@@ -25,7 +25,8 @@
 							[randomStartList objectAtIndex:adjectiveIndex],
 							[randomEndList objectAtIndex:nounIndex]];
 	
-	NSString *randomCode = [NSString stringWithFormat:@"RAND"];
+	NSString *randomCode = [NSString stringWithFormat:@"%@",
+							[randomStartList objectAtIndex:adjectiveIndex]];
 	
 	float randomLatitude = (float)rand() / 100.00f;
 	float randomLongitude = (float)rand() / 100.00f;
