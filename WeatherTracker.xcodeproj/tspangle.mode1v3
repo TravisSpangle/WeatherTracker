@@ -250,8 +250,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -294,12 +292,22 @@
 								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>53A7557912F33EDC00471908</string>
+								<string>29B97323FDCFA39411CA2CEA</string>
+								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>23</integer>
+									<integer>9</integer>
+									<integer>2</integer>
+									<integer>1</integer>
+									<integer>0</integer>
+								</array>
+								<array>
+									<integer>10</integer>
+									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -334,12 +342,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Homework 3 WeatherTracker Part 1.pdf</string>
+								<string>StationCell.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -347,15 +357,24 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Homework 3 WeatherTracker Part 1.pdf</string>
+										<string>StationCell.m</string>
+										<key>_historyCapacity</key>
+										<integer>0</integer>
+										<key>bookmark</key>
+										<string>530D056412F52A7800E309ED</string>
 										<key>history</key>
 										<array>
 											<string>53A7576F12F39D8500471908</string>
 											<string>53A7577112F39D8500471908</string>
 											<string>53A7577212F39D8500471908</string>
-											<string>53A7577B12F3A30E00471908</string>
 											<string>530A034512F3F83100FCBE32</string>
-											<string>530A034712F3F83100FCBE32</string>
+											<string>530D055D12F52A7800E309ED</string>
+											<string>530D055E12F52A7800E309ED</string>
+											<string>530D055F12F52A7800E309ED</string>
+											<string>530D056012F52A7800E309ED</string>
+											<string>530D056112F52A7800E309ED</string>
+											<string>530D056212F52A7800E309ED</string>
+											<string>530D056312F52A7800E309ED</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -536,7 +555,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>318037040.58737397</real>
+	<real>318057080.05961603</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -553,6 +572,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>5350DA8212F3388C0099B93C</string>
 		<string>/Users/tspangle/Dropbox/IPhone/WeatherTracker/WeatherTracker.xcodeproj</string>
 	</array>
@@ -578,7 +599,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>StationCell.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -595,6 +616,8 @@
 							<string>273pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -678,8 +701,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 201}}</string>
-											<string>{{316, 0}, {378, 201}}</string>
+											<string>{{0, 0}, {316, 202}}</string>
+											<string>{{316, 0}, {378, 202}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -694,8 +717,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 201}}</string>
-											<string>{{0, 201}, {694, 180}}</string>
+											<string>{{0, 0}, {694, 202}}</string>
+											<string>{{0, 202}, {694, 179}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -728,7 +751,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 201}}</string>
+									<string>{{316, 0}, {378, 202}}</string>
 									<key>RubberWindowFrame</key>
 									<string>0 114 694 422 0 0 1280 778 </string>
 								</dict>
@@ -756,13 +779,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>530D045012F4C29F00E309ED</string>
+				<string>530D054D12F4DC7A00E309ED</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>530D045112F4C29F00E309ED</string>
-				<string>530D045212F4C29F00E309ED</string>
-				<string>530D045312F4C29F00E309ED</string>
-				<string>530D045412F4C29F00E309ED</string>
-				<string>530D045512F4C29F00E309ED</string>
+				<string>530D054E12F4DC7A00E309ED</string>
+				<string>530D054F12F4DC7A00E309ED</string>
+				<string>530D055012F4DC7A00E309ED</string>
+				<string>530D055112F4DC7A00E309ED</string>
+				<string>530D055212F4DC7A00E309ED</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -918,7 +941,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>530D045912F4C29F00E309ED</string>
+				<string>530D055312F4DC7A00E309ED</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

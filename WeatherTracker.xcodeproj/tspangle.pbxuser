@@ -94,6 +94,17 @@
 			530D045A12F4C2B900E309ED = 530D045A12F4C2B900E309ED /* PBXTextBookmark */;
 			530D045B12F4C2B900E309ED = 530D045B12F4C2B900E309ED /* PBXTextBookmark */;
 			530D045C12F4C2DF00E309ED = 530D045C12F4C2DF00E309ED /* PBXTextBookmark */;
+			530D055B12F52A5D00E309ED /* XCBuildMessageTextBookmark */ = 530D055B12F52A5D00E309ED /* XCBuildMessageTextBookmark */;
+			530D055C12F52A5D00E309ED /* PBXTextBookmark */ = 530D055C12F52A5D00E309ED /* PBXTextBookmark */;
+			530D055D12F52A7800E309ED /* PBXTextBookmark */ = 530D055D12F52A7800E309ED /* PBXTextBookmark */;
+			530D055E12F52A7800E309ED /* PBXBookmark */ = 530D055E12F52A7800E309ED /* PBXBookmark */;
+			530D055F12F52A7800E309ED /* PBXTextBookmark */ = 530D055F12F52A7800E309ED /* PBXTextBookmark */;
+			530D056012F52A7800E309ED /* PBXTextBookmark */ = 530D056012F52A7800E309ED /* PBXTextBookmark */;
+			530D056112F52A7800E309ED /* PBXTextBookmark */ = 530D056112F52A7800E309ED /* PBXTextBookmark */;
+			530D056212F52A7800E309ED /* PBXTextBookmark */ = 530D056212F52A7800E309ED /* PBXTextBookmark */;
+			530D056312F52A7800E309ED /* XCBuildMessageTextBookmark */ = 530D056312F52A7800E309ED /* XCBuildMessageTextBookmark */;
+			530D056412F52A7800E309ED /* PBXTextBookmark */ = 530D056412F52A7800E309ED /* PBXTextBookmark */;
+			530D056F12F52E2D00E309ED /* PBXTextBookmark */ = 530D056F12F52E2D00E309ED /* PBXTextBookmark */;
 			53A7576F12F39D8500471908 = 53A7576F12F39D8500471908 /* PBXTextBookmark */;
 			53A7577112F39D8500471908 = 53A7577112F39D8500471908 /* PBXTextBookmark */;
 			53A7577212F39D8500471908 = 53A7577212F39D8500471908 /* PBXTextBookmark */;
@@ -131,7 +142,7 @@
 		rLen = 0;
 		rLoc = 431;
 		rType = 0;
-		vrLen = 582;
+		vrLen = 547;
 		vrLoc = 0;
 	};
 	530A039D12F4C22B00FCBE32 /* PBXTextBookmark */ = {
@@ -139,9 +150,9 @@
 		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
 		name = "StationDetailViewController.m: 127";
 		rLen = 0;
-		rLoc = 3501;
+		rLoc = 3527;
 		rType = 0;
-		vrLen = 801;
+		vrLen = 722;
 		vrLoc = 3072;
 	};
 	530A039F12F4C24900FCBE32 /* PBXTextBookmark */ = {
@@ -151,7 +162,7 @@
 		rLen = 0;
 		rLoc = 431;
 		rType = 0;
-		vrLen = 582;
+		vrLen = 547;
 		vrLoc = 0;
 	};
 	530D045612F4C29F00E309ED /* PBXTextBookmark */ = {
@@ -161,7 +172,7 @@
 		rLen = 0;
 		rLoc = 431;
 		rType = 0;
-		vrLen = 582;
+		vrLen = 547;
 		vrLoc = 0;
 	};
 	530D045A12F4C2B900E309ED /* PBXTextBookmark */ = {
@@ -179,9 +190,9 @@
 		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
 		name = "StationDetailViewController.m: 127";
 		rLen = 0;
-		rLoc = 3501;
+		rLoc = 3527;
 		rType = 0;
-		vrLen = 895;
+		vrLen = 816;
 		vrLoc = 2978;
 	};
 	530D045C12F4C2DF00E309ED /* PBXTextBookmark */ = {
@@ -189,10 +200,126 @@
 		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
 		name = "StationDetailViewController.m: 143";
 		rLen = 0;
-		rLoc = 3761;
+		rLoc = 3787;
 		rType = 0;
 		vrLen = 1393;
 		vrLoc = 0;
+	};
+	530D055412F528DF00E309ED /* StationCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {659, 579}}";
+			sepNavSelRange = "{341, 0}";
+			sepNavVisRange = "{0, 347}";
+		};
+	};
+	530D055512F528DF00E309ED /* StationCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {659, 1222}}";
+			sepNavSelRange = "{1933, 0}";
+			sepNavVisRange = "{1107, 1323}";
+		};
+	};
+	530D055B12F52A5D00E309ED /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Method definition for '-setStation:' not found";
+		fRef = 530D055512F528DF00E309ED /* StationCell.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 92;
+		rType = 1;
+	};
+	530D055C12F52A5D00E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 530D055512F528DF00E309ED /* StationCell.m */;
+		name = "StationCell.m: 49";
+		rLen = 0;
+		rLoc = 2474;
+		rType = 0;
+		vrLen = 246;
+		vrLoc = 829;
+	};
+	530D055D12F52A7800E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
+		name = "StationDetailViewController.m: 68";
+		rLen = 0;
+		rLoc = 2036;
+		rType = 0;
+		vrLen = 1201;
+		vrLoc = 1393;
+	};
+	530D055E12F52A7800E309ED /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */;
+	};
+	530D055F12F52A7800E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A756E312F3933800471908 /* StationDetailViewController.h */;
+		name = "StationDetailViewController.h: 17";
+		rLen = 0;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+	530D056012F52A7800E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553B12F33CA500471908 /* WeatherStationViewController.h */;
+		name = "WeatherStationViewController.h: 14";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	530D056112F52A7800E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
+		name = "WeatherStationViewController.m: 23";
+		rLen = 0;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 1615;
+		vrLoc = 2119;
+	};
+	530D056212F52A7800E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 530D055412F528DF00E309ED /* StationCell.h */;
+		name = "StationCell.h: 19";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	530D056312F52A7800E309ED /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'StationCell'";
+		fRef = 530D055512F528DF00E309ED /* StationCell.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 92;
+		rType = 1;
+	};
+	530D056412F52A7800E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 530D055512F528DF00E309ED /* StationCell.m */;
+		name = "StationCell.m: 37";
+		rLen = 0;
+		rLoc = 2252;
+		rType = 0;
+		vrLen = 1027;
+		vrLoc = 85;
+	};
+	530D056F12F52E2D00E309ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 530D055512F528DF00E309ED /* StationCell.m */;
+		name = "StationCell.m: 50";
+		rLen = 0;
+		rLoc = 1340;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 900;
 	};
 	5350DA7612F3387C0099B93C /* WeatherTracker */ = {
 		isa = PBXExecutable;
@@ -247,9 +374,9 @@
 	};
 	53A7553C12F33CA500471908 /* WeatherStationViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 2795}}";
-			sepNavSelRange = "{4941, 0}";
-			sepNavVisRange = "{0, 1176}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 2756}}";
+			sepNavSelRange = "{534, 0}";
+			sepNavVisRange = "{2119, 1615}";
 		};
 	};
 	53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */ = {
@@ -280,9 +407,9 @@
 	};
 	53A756E412F3933800471908 /* StationDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1950}}";
-			sepNavSelRange = "{3761, 0}";
-			sepNavVisRange = "{0, 1393}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1846}}";
+			sepNavSelRange = "{2036, 0}";
+			sepNavVisRange = "{1393, 1201}";
 		};
 	};
 	53A7576F12F39D8500471908 /* PBXTextBookmark */ = {
