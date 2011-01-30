@@ -250,6 +250,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -297,9 +299,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>13</integer>
-									<integer>12</integer>
-									<integer>1</integer>
+									<integer>23</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -323,7 +323,7 @@
 							<real>255</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>5 111 997 657 0 0 1280 778 </string>
+						<string>20 121 997 657 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -334,14 +334,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>StationDetailViewController.m</string>
+								<string>Homework 3 WeatherTracker Part 1.pdf</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -349,22 +347,15 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>StationDetailViewController.m</string>
-										<key>_historyCapacity</key>
-										<integer>0</integer>
-										<key>bookmark</key>
-										<string>530D045C12F4C2DF00E309ED</string>
+										<string>Homework 3 WeatherTracker Part 1.pdf</string>
 										<key>history</key>
 										<array>
 											<string>53A7576F12F39D8500471908</string>
 											<string>53A7577112F39D8500471908</string>
 											<string>53A7577212F39D8500471908</string>
 											<string>53A7577B12F3A30E00471908</string>
-											<string>53A757A012F3A76000471908</string>
 											<string>530A034512F3F83100FCBE32</string>
 											<string>530A034712F3F83100FCBE32</string>
-											<string>530D045A12F4C2B900E309ED</string>
-											<string>530A039D12F4C22B00FCBE32</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -378,7 +369,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {720, 611}}</string>
 								<key>RubberWindowFrame</key>
-								<string>5 111 997 657 0 0 1280 778 </string>
+								<string>20 121 997 657 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -398,7 +389,7 @@
 								<key>Frame</key>
 								<string>{{0, 616}, {720, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>5 111 997 657 0 0 1280 778 </string>
+								<string>20 121 997 657 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -422,9 +413,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>530D045712F4C29F00E309ED</string>
+				<string>530D054612F4DC3000E309ED</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>530D045812F4C29F00E309ED</string>
+				<string>530D054712F4DC3000E309ED</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -545,7 +536,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>318030559.74184799</real>
+	<real>318037040.58737397</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -562,13 +553,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>5350DA8212F3388C0099B93C</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/tspangle/Dropbox/IPhone/WeatherTracker/WeatherTracker.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>5 111 997 657 0 0 1280 778 </string>
+	<string>20 121 997 657 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -606,8 +595,6 @@
 							<string>273pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -647,7 +634,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>5350DA8212F3388C0099B93C</string>
-				<string>530D044F12F4C29F00E309ED</string>
+				<string>530D054812F4DC3000E309ED</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

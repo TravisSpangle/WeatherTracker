@@ -64,6 +64,7 @@
 
 #pragma mark -
 #pragma mark Keyboard Notification
+//Todo regester functions
 
 - (void)moveView:(int)offset
 {
