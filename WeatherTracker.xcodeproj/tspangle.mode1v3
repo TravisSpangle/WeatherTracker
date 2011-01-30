@@ -355,20 +355,20 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>530D061412F5E5CE00E309ED</string>
+										<string>538D052212F5F19C00A08426</string>
 										<key>history</key>
 										<array>
 											<string>53A7576F12F39D8500471908</string>
-											<string>53A7577112F39D8500471908</string>
-											<string>53A7577212F39D8500471908</string>
-											<string>530D055E12F52A7800E309ED</string>
 											<string>530D055F12F52A7800E309ED</string>
-											<string>530D05BB12F5E3B100E309ED</string>
-											<string>530D05D012F5E41400E309ED</string>
 											<string>530D05D112F5E41400E309ED</string>
-											<string>530D05E512F5E50D00E309ED</string>
-											<string>530D060C12F5E59E00E309ED</string>
-											<string>530D060D12F5E59E00E309ED</string>
+											<string>530D061512F5EB5600E309ED</string>
+											<string>530D061612F5EB5600E309ED</string>
+											<string>530D061712F5EB5600E309ED</string>
+											<string>530D062912F5EC9600E309ED</string>
+											<string>530D063B12F5EF5100E309ED</string>
+											<string>530D063C12F5EF5100E309ED</string>
+											<string>530D063D12F5EF5100E309ED</string>
+											<string>530D066412F5F0F000E309ED</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -426,9 +426,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>530D054612F4DC3000E309ED</string>
+				<string>538D050812F5F10000A08426</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>530D054712F4DC3000E309ED</string>
+				<string>538D050912F5F10000A08426</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -549,7 +549,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>318105038.22946602</real>
+	<real>318108060.82933098</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -567,8 +567,8 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>5350DA8212F3388C0099B93C</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/tspangle/Dropbox/IPhone/WeatherTracker/WeatherTracker.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -593,7 +593,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>StationCell.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -651,7 +651,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>5350DA8212F3388C0099B93C</string>
-				<string>530D054812F4DC3000E309ED</string>
+				<string>538D050A12F5F10000A08426</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -695,8 +695,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 202}}</string>
-											<string>{{316, 0}, {378, 202}}</string>
+											<string>{{0, 0}, {316, 203}}</string>
+											<string>{{316, 0}, {378, 203}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -711,8 +711,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 202}}</string>
-											<string>{{0, 202}, {694, 179}}</string>
+											<string>{{0, 0}, {694, 203}}</string>
+											<string>{{0, 203}, {694, 178}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -745,7 +745,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 202}}</string>
+									<string>{{316, 0}, {378, 203}}</string>
 									<key>RubberWindowFrame</key>
 									<string>0 114 694 422 0 0 1280 778 </string>
 								</dict>
@@ -773,13 +773,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>530D054D12F4DC7A00E309ED</string>
+				<string>538D050B12F5F10000A08426</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>530D054E12F4DC7A00E309ED</string>
-				<string>530D054F12F4DC7A00E309ED</string>
-				<string>530D055012F4DC7A00E309ED</string>
-				<string>530D055112F4DC7A00E309ED</string>
-				<string>530D055212F4DC7A00E309ED</string>
+				<string>538D050C12F5F10000A08426</string>
+				<string>538D050D12F5F10000A08426</string>
+				<string>538D050E12F5F10000A08426</string>
+				<string>538D050F12F5F10000A08426</string>
+				<string>538D051012F5F10000A08426</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -935,7 +935,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>530D055312F4DC7A00E309ED</string>
+				<string>538D051F12F5F16000A08426</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

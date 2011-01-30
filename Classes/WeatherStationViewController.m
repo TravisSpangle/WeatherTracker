@@ -93,7 +93,7 @@
 - (NSInteger)tableView:(UITableView *)tableView
  numberOfRowsInSection:(NSInteger)section {
 	int numberOfRows = [stations count];
-	// If we are editing, we will have one more row than we have possessions
+	// If we are editing, we will have one more row than we have stations
 	if ([self isEditing])
 		numberOfRows++;
 	
@@ -104,21 +104,27 @@
 moveRowAtIndexPath:(NSIndexPath *)fromIndexPath 
 	  toIndexPath:(NSIndexPath *)toIndexPath 
 {
+	Station * s = [stations objectAtIndex:[fromIndexPath row]];
+	[s retain];
+	
 	[stations removeObjectAtIndex:[fromIndexPath row]];
-	[stations insertObject:[stations objectAtIndex:[fromIndexPath row]] 
-				   atIndex:[toIndexPath row]];
+	[stations insertObject:s atIndex:[toIndexPath row]];
+	
+	[s release];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView 
 		 cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 	
-	if ([indexPath row] >= [stations count]) {		
+	if ([indexPath row] >= [stations count]) {	
+
 		// Create a basic cell for "add new station"
 		UITableViewCell *basicCell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"];
 		
 		if (!basicCell)
 			basicCell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault 
 												reuseIdentifier:@"UITableViewCell"] autorelease];
+		
 		[[basicCell textLabel] setText:@"Add New Station..."];
 		
 		return basicCell;	
@@ -132,17 +138,7 @@ moveRowAtIndexPath:(NSIndexPath *)fromIndexPath
 	
 	Station *s = [stations objectAtIndex:[indexPath row]];
 	[cell setStation:s];
-	
-	/*
-	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"]; 
-	if (!cell)
-		cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"UITableViewCell"] autorelease];	
-	
-	if ([indexPath row] < [stations count])
-		[[cell textLabel] setText:[[stations objectAtIndex:[indexPath row]] stationName]];
-	else 
-		[[cell textLabel] setText:@"Add New Station..."];
-	*/
+
 	return cell;
 }
 
