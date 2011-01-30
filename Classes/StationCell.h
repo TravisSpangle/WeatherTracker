@@ -17,4 +17,7 @@
 	UILabel *longitudeLabel;
 }
 - (void)setStation:(Station *)station;
+- (void)layoutSubviews;
+- (void) setStation:(Station *)station;
+
 @end

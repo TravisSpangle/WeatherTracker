@@ -23,4 +23,6 @@
 }
 @property (nonatomic, assign) Station *editingStation;
 
+- (void)moveView:(int)offset;
+
 @end

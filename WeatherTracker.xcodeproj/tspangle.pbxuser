@@ -11,7 +11,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1965, 1261}}";
 			sepNavSelRange = "{2981, 0}";
-			sepNavVisRange = "{1976, 1078}";
+			sepNavVisRange = "{1968, 1086}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* WeatherTracker */ = {
@@ -81,8 +81,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 318107898;
-			PBXWorkspaceStateSaveDate = 318107898;
+			PBXPerProjectTemplateStateSaveDate = 318108890;
+			PBXWorkspaceStateSaveDate = 318108890;
 		};
 		perUserProjectItems = {
 			530D055F12F52A7800E309ED = 530D055F12F52A7800E309ED /* PBXTextBookmark */;
@@ -94,11 +94,9 @@
 			530D063B12F5EF5100E309ED = 530D063B12F5EF5100E309ED /* PBXTextBookmark */;
 			530D063C12F5EF5100E309ED = 530D063C12F5EF5100E309ED /* PBXTextBookmark */;
 			530D063D12F5EF5100E309ED = 530D063D12F5EF5100E309ED /* PBXTextBookmark */;
-			530D065312F5F02700E309ED = 530D065312F5F02700E309ED /* PBXTextBookmark */;
-			530D066412F5F0F000E309ED = 530D066412F5F0F000E309ED /* PBXTextBookmark */;
-			538D050712F5F10000A08426 /* PBXTextBookmark */ = 538D050712F5F10000A08426 /* PBXTextBookmark */;
-			538D051E12F5F16000A08426 /* PBXTextBookmark */ = 538D051E12F5F16000A08426 /* PBXTextBookmark */;
-			538D052212F5F19C00A08426 /* PBXTextBookmark */ = 538D052212F5F19C00A08426 /* PBXTextBookmark */;
+			538D052D12F5F4CC00A08426 = 538D052D12F5F4CC00A08426 /* PBXTextBookmark */;
+			538D052E12F5F4CC00A08426 = 538D052E12F5F4CC00A08426 /* PlistBookmark */;
+			538D052F12F5F4CC00A08426 = 538D052F12F5F4CC00A08426 /* PlistBookmark */;
 			53A7576F12F39D8500471908 = 53A7576F12F39D8500471908 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5350DA8F12F338BF0099B93C /* Source Control */;
@@ -188,7 +186,7 @@
 		fRef = 53A756E412F3933800471908 /* StationDetailViewController.m */;
 		name = "StationDetailViewController.m: 66";
 		rLen = 0;
-		rLoc = 1986;
+		rLoc = 1493;
 		rType = 0;
 		vrLen = 1426;
 		vrLoc = 293;
@@ -202,26 +200,6 @@
 		rType = 0;
 		vrLen = 376;
 		vrLoc = 0;
-	};
-	530D065312F5F02700E309ED /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
-		name = "WeatherStationViewController.m: 123";
-		rLen = 0;
-		rLoc = 3715;
-		rType = 0;
-		vrLen = 1452;
-		vrLoc = 3204;
-	};
-	530D066412F5F0F000E309ED /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
-		name = "WeatherStationViewController.m: 110";
-		rLen = 0;
-		rLoc = 3043;
-		rType = 0;
-		vrLen = 1382;
-		vrLoc = 2878;
 	};
 	5350DA7612F3387C0099B93C /* WeatherTracker */ = {
 		isa = PBXExecutable;
@@ -267,27 +245,7 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	538D050712F5F10000A08426 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
-		name = "WeatherStationViewController.m: 110";
-		rLen = 0;
-		rLoc = 3043;
-		rType = 0;
-		vrLen = 1382;
-		vrLoc = 2878;
-	};
-	538D051E12F5F16000A08426 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
-		name = "WeatherStationViewController.m: 126";
-		rLen = 0;
-		rLoc = 3231;
-		rType = 0;
-		vrLen = 1576;
-		vrLoc = 2878;
-	};
-	538D052212F5F19C00A08426 /* PBXTextBookmark */ = {
+	538D052D12F5F4CC00A08426 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */;
 		name = "WeatherStationViewController.m: 112";
@@ -296,6 +254,29 @@
 		rType = 0;
 		vrLen = 1274;
 		vrLoc = 2878;
+	};
+	538D052E12F5F4CC00A08426 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/tspangle/Dropbox/IPhone/WeatherTracker/WeatherTracker-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	538D052F12F5F4CC00A08426 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tspangle/Dropbox/IPhone/WeatherTracker/WeatherTracker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
 	};
 	53A7553B12F33CA500471908 /* WeatherStationViewController.h */ = {
 		uiCtxt = {
@@ -332,7 +313,7 @@
 	};
 	53A756E312F3933800471908 /* StationDetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {659, 579}}";
+			sepNavIntBoundsRect = "{{0, 0}, {793, 571}}";
 			sepNavSelRange = "{431, 0}";
 			sepNavVisRange = "{0, 547}";
 		};
