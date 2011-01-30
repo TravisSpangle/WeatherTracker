@@ -23,7 +23,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 5350DA7612F3387C0099B93C /* WeatherTracker */;
-		activeSDKPreference = iphonesimulator4.2;
+		activeSDKPreference = iphoneos4.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* WeatherTracker */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* WeatherTracker */,

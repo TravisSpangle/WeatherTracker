@@ -14,6 +14,7 @@
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		530D055612F528DF00E309ED /* StationCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 530D055512F528DF00E309ED /* StationCell.m */; };
+		538D052812F5F31300A08426 /* weatherTracker.png in Resources */ = {isa = PBXBuildFile; fileRef = 538D052712F5F31300A08426 /* weatherTracker.png */; };
 		53A7553D12F33CA500471908 /* WeatherStationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A7553C12F33CA500471908 /* WeatherStationViewController.m */; };
 		53A7557812F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */; };
 		53A7557E12F3409100471908 /* Station.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A7557D12F3409100471908 /* Station.m */; };
@@ -33,6 +34,7 @@
 		32CA4F630368D1EE00C91783 /* WeatherTracker_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeatherTracker_Prefix.pch; sourceTree = "<group>"; };
 		530D055412F528DF00E309ED /* StationCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StationCell.h; sourceTree = "<group>"; };
 		530D055512F528DF00E309ED /* StationCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StationCell.m; sourceTree = "<group>"; };
+		538D052712F5F31300A08426 /* weatherTracker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weatherTracker.png; sourceTree = "<group>"; };
 		53A7553B12F33CA500471908 /* WeatherStationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeatherStationViewController.h; sourceTree = "<group>"; };
 		53A7553C12F33CA500471908 /* WeatherStationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeatherStationViewController.m; sourceTree = "<group>"; };
 		53A7557712F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Homework 3 WeatherTracker Part 1.pdf"; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				538D052412F5F23A00A08426 /* Images */,
 				53A7557912F33EDC00471908 /* miscellaneous  */,
 				8D1107310486CEB800E47090 /* WeatherTracker-Info.plist */,
 			);
@@ -114,6 +117,14 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		538D052412F5F23A00A08426 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				538D052712F5F31300A08426 /* weatherTracker.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 		53A7553A12F33B9500471908 /* Models */ = {
@@ -209,6 +220,7 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				53A7557812F33ED800471908 /* Homework 3 WeatherTracker Part 1.pdf in Resources */,
 				53A756E712F3933800471908 /* StationDetailViewController.xib in Resources */,
+				538D052812F5F31300A08426 /* weatherTracker.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
