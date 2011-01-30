@@ -299,20 +299,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>9</integer>
-									<integer>2</integer>
-									<integer>1</integer>
-									<integer>0</integer>
-								</array>
-								<array>
-									<integer>10</integer>
+									<integer>8</integer>
 									<integer>2</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {255, 598}}</string>
+							<string>{{0, 0}, {255, 590}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -324,14 +318,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {272, 616}}</string>
+						<string>{{0, 0}, {272, 608}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>255</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>20 121 997 657 0 0 1280 778 </string>
+						<string>20 129 1131 649 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -349,7 +343,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>StationCell.m</string>
+								<string>WeatherStationViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -357,24 +351,24 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>StationCell.m</string>
+										<string>WeatherStationViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>530D056412F52A7800E309ED</string>
+										<string>530D061412F5E5CE00E309ED</string>
 										<key>history</key>
 										<array>
 											<string>53A7576F12F39D8500471908</string>
 											<string>53A7577112F39D8500471908</string>
 											<string>53A7577212F39D8500471908</string>
-											<string>530A034512F3F83100FCBE32</string>
-											<string>530D055D12F52A7800E309ED</string>
 											<string>530D055E12F52A7800E309ED</string>
 											<string>530D055F12F52A7800E309ED</string>
-											<string>530D056012F52A7800E309ED</string>
-											<string>530D056112F52A7800E309ED</string>
-											<string>530D056212F52A7800E309ED</string>
-											<string>530D056312F52A7800E309ED</string>
+											<string>530D05BB12F5E3B100E309ED</string>
+											<string>530D05D012F5E41400E309ED</string>
+											<string>530D05D112F5E41400E309ED</string>
+											<string>530D05E512F5E50D00E309ED</string>
+											<string>530D060C12F5E59E00E309ED</string>
+											<string>530D060D12F5E59E00E309ED</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -386,14 +380,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {720, 611}}</string>
+								<string>{{0, 0}, {854, 603}}</string>
 								<key>RubberWindowFrame</key>
-								<string>20 121 997 657 0 0 1280 778 </string>
+								<string>20 129 1131 649 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>611pt</string>
+							<string>603pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -406,9 +400,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 616}, {720, 0}}</string>
+								<string>{{0, 608}, {854, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>20 121 997 657 0 0 1280 778 </string>
+								<string>20 129 1131 649 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -417,7 +411,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>720pt</string>
+					<string>854pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -555,7 +549,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>318057080.05961603</real>
+	<real>318105038.22946602</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -578,7 +572,7 @@
 		<string>/Users/tspangle/Dropbox/IPhone/WeatherTracker/WeatherTracker.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>20 121 997 657 0 0 1280 778 </string>
+	<string>20 129 1131 649 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

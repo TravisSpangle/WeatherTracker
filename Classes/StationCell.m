@@ -20,6 +20,9 @@
 		latitudeLabel = [[UILabel alloc] initWithFrame:CGRectZero];
 		longitudeLabel = [[UILabel alloc] initWithFrame:CGRectZero];
 		
+		latitudeLabel.textColor = [UIColor grayColor];
+		longitudeLabel.textColor = [UIColor grayColor];
+		
 		[[self contentView] addSubview:nameLabel];
 		[[self contentView] addSubview:latitudeLabel];
 		[[self contentView] addSubview:longitudeLabel];
@@ -36,16 +39,17 @@
 
 	[super layoutSubviews];
 	
-	float inset = 5;
+	float inset = 4;
 	CGRect bounds = [[self contentView] bounds];
-	float firstRowHeight = (bounds.size.height * 0.70);
-	float secondRowHeight = (bounds.size.height * 0.30);
-	float width = bounds.size.width;
+	float firstRowHeight = (bounds.size.height / 2);
+	float secondRowHeight = (bounds.size.height / 2);
+	float width = bounds.size.width - 10;
 	
-	CGRect innerFrame = CGRectMake(inset, inset, firstRowHeight, width - inset);
+	//CGRect innerFrame = CGRectMake(inset, inset, firstRowHeight, width - inset);
+	CGRect innerFrame = CGRectMake(inset, inset, width, firstRowHeight - inset);
 	[nameLabel setFrame:innerFrame];
 	
-	innerFrame.origin.y += firstRowHeight + inset;
+	innerFrame.origin.y += (firstRowHeight - inset);
 	innerFrame.size.height = secondRowHeight;
 	innerFrame.size.width *= 0.50; //can only fill half of the screen
 	[latitudeLabel setFrame:innerFrame];
@@ -53,16 +57,6 @@
 	innerFrame.origin.x += innerFrame.size.width;
 	[longitudeLabel setFrame:innerFrame];
 	
-	// Move that rectangle over and resize the width for the nameLabel
-	/*innerFrame.origin.x += innerFrame.size.width + inset;
-	innerFrame.size.width = w - (h + valueWidth + inset * 4);
-	[nameLabel setFrame:innerFrame];
-	
-	// Move that rectangle over again and resize the width for valueLabel
-	innerFrame.origin.x += innerFrame.size.width + inset;
-	innerFrame.size.width = valueWidth;
-	[valueLabel setFrame:innerFrame];
-	 */
 }
 
 -(void) setStation:(Station *)station {

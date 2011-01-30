@@ -9,6 +9,7 @@
 #import "WeatherStationViewController.h"
 #import "Station.h"
 #import "StationDetailViewController.h"
+#import "StationCell.h"
 
 @implementation WeatherStationViewController
 
@@ -110,7 +111,29 @@ moveRowAtIndexPath:(NSIndexPath *)fromIndexPath
 
 - (UITableViewCell *)tableView:(UITableView *)tableView 
 		 cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+	
+	if ([indexPath row] >= [stations count]) {		
+		// Create a basic cell for "add new station"
+		UITableViewCell *basicCell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"];
+		
+		if (!basicCell)
+			basicCell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault 
+												reuseIdentifier:@"UITableViewCell"] autorelease];
+		[[basicCell textLabel] setText:@"Add New Station..."];
+		
+		return basicCell;	
+	}
+	
+	StationCell *cell = (StationCell *)[tableView 
+													dequeueReusableCellWithIdentifier:@"StationCell"];
+	if (!cell)
+		cell = [[[StationCell alloc] initWithStyle:UITableViewCellStyleDefault 
+										 reuseIdentifier:@"StationCell"] autorelease];
+	
+	Station *s = [stations objectAtIndex:[indexPath row]];
+	[cell setStation:s];
+	
+	/*
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"]; 
 	if (!cell)
 		cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"UITableViewCell"] autorelease];	
@@ -119,7 +142,7 @@ moveRowAtIndexPath:(NSIndexPath *)fromIndexPath
 		[[cell textLabel] setText:[[stations objectAtIndex:[indexPath row]] stationName]];
 	else 
 		[[cell textLabel] setText:@"Add New Station..."];
-	
+	*/
 	return cell;
 }
 
