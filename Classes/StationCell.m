@@ -64,9 +64,9 @@
 	[nameLabel setText:
 	 [NSString stringWithFormat:@"%@", [station stationName]]];
 	[latitudeLabel setText:
-	 [NSString stringWithFormat:@"Latitude: %f", [station latitude]]];
+	 [NSString stringWithFormat:@"Latitude: %1.2f", [station latitude]]];
 	[longitudeLabel setText:
-	 [NSString stringWithFormat:@"Longitude: %f", [station longitude]]];
+	 [NSString stringWithFormat:@"Longitude: %1.2f", [station longitude]]];
 	
 }
 
